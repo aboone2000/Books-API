@@ -1,0 +1,23 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "An api providing data about books from all topics\r You can find out reviews for your faviorite book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboone2000/Books-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboone2000/Books-API/issues"
+  },
+  "homepage": "https://github.com/aboone2000/Books-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
